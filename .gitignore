@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Logs
+logs/
+*.log
