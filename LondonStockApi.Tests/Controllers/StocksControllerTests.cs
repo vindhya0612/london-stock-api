@@ -20,6 +20,7 @@ namespace LondonStockApi.Tests.Controllers
             
             var c=new StocksController(r.Object);
             var result=await c.GetOne("AAPL");
+
             result.Result.Should().BeOfType<OkObjectResult>();
         }
         

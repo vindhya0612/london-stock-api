@@ -21,6 +21,7 @@ namespace LondonStockApi.Tests.Integration {
             var resp=await client.GetAsync("/swagger/index.html");
             
             Assert.Equal(HttpStatusCode.OK,resp.StatusCode);
+
         }
     }
 }
