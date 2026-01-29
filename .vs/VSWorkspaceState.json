@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LondonStockApi",
+    "\\LondonStockApi.Tests",
+    "\\LondonStockApi.Tests\\Controllers",
+    "\\LondonStockApi.Tests\\Integration",
+    "\\LondonStockApi.Tests\\Validation",
+    "\\LondonStockApi\\Controllers"
+  ],
+  "SelectedNode": "\\LondonStockApi.Tests\\Validation\\TradeDtoValidatorTests.cs",
+  "PreviewInSolutionExplorer": false
+}
